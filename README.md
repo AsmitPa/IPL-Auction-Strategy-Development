@@ -1,10 +1,13 @@
 Project Overview
+
 This project aims to develop a comprehensive auction strategy for a new Indian Premier League (IPL) franchise by analyzing historical IPL data from the first season to the 13th season (held in 2020). The project focuses on building a balanced and competitive squad using data-driven insights derived from SQL queries.
 
 Motive
+
 The goal is to create a strong and well-balanced squad by analyzing various types of players, including batsmen, bowlers, all-rounders, and wicketkeepers. Key factors such as player performance, form, and value are considered to inform decisions during the IPL auction.
 
 Background
+
 The IPL is a professional Twenty20 cricket league in India, which has garnered global attention since its inception in 2007. With the inclusion of new teams and players, IPL auctions play a critical role in determining team composition and future success.
 
 The project involves:
